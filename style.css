@@ -112,7 +112,7 @@ body {
     max-width: 500px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #264653;
+    background-color: #2C3E50;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     margin-top: 40px;
@@ -160,4 +160,14 @@ input[type="password"] {
     display: flex;
     gap: 20px;
     justify-content: center;
+}
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    padding: 20px 43px;
+    gap: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
 }
